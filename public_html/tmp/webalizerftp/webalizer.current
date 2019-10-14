@@ -1,0 +1,368 @@
+# Webalizer V2.23-05 Incremental Data - 05/02/2015 07:21:22
+2015 5 2 7 21 22
+123 123 1 123 0 0 3979387 2 1 1
+1 123 123 2 2
+0 0 0 0 0 0
+123 123 3979387 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+123 123 3979387 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+123
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/bertin12/ScriptLibrary/jquery.easing.1.3.js
+0 1 0 8097 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/ie6.css
+0 1 0 435 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/orange.js
+0 1 0 798 0 0
+/home/bertin12/Styles/loader.gif
+0 1 0 2608 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/transparent_black.png
+0 1 0 253 0 0
+/home/bertin12/dmx/widgets/Lightbox/frame.html
+0 1 0 4378 0 0
+/home/bertin12/Styles/dmxGoogleMaps.css
+0 1 0 51 0 0
+/home/bertin12/Styles/up-trans.png
+0 1 0 161 0 0
+/home/bertin12/dmx/widgets/Lightbox/dmx.lightbox.js
+0 1 0 40302 0 0
+/home/bertin12/Images/Logoset/big/myconneck.jpg
+0 1 0 85866 0 0
+/home/bertin12/Images/.DS_Store
+0 1 0 6148 0 0
+/home/bertin12/Templates/InnerPageWithSidebar.dwt.php
+0 1 0 5607 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/config_btn.png
+0 1 0 1966 0 0
+/home/bertin12/css/style.css
+0 1 0 2656 0 0
+/home/bertin12/fonts/font/fontawesome-webfont.svg
+0 1 0 130151 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/btn_next_hover.png
+0 1 0 4072 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/right-trans.png
+0 1 0 169 0 0
+/home/bertin12/Images/Logoset/big/Leaf.jpg
+0 1 0 89828 0 0
+/home/bertin12/Images/Logoset/big/big/big/Hero.jpg
+0 1 0 14046 0 0
+/home/bertin12/fonts/css/font-awesome.css
+0 1 0 14599 0 0
+/home/bertin12/Styles/left-trans.png
+0 1 0 162 0 0
+/home/bertin12/dmx/widgets/Lightbox/package_utilities.png
+0 1 0 58789 0 0
+/home/bertin12/dmx/widgets/Lightbox/logo_dmx_bg.png
+0 1 0 6100 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/about_btn.png
+0 1 0 1708 0 0
+/home/bertin12/Styles/dmxHTML5Slideshow/minimalistic/minimalistic.css
+0 1 0 2424 0 0
+/home/bertin12/dmx/lib/jquery.metadata.pack.js
+0 1 0 1338 0 0
+/home/bertin12/
+0 1 0 9258 0 0
+/home/bertin12/Home.php
+0 1 0 9171 0 0
+/home/bertin12/dmx/widgets/Lightbox/plugins/pdf/pdf.js
+0 1 0 1259 0 0
+/home/bertin12/Images/Logoset/big/SUN.jpg
+0 1 0 22347 0 0
+/home/bertin12/dmx/widgets/Lightbox/plugins/image/image.js
+0 1 0 1224 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/btn_play.png
+0 1 0 856 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/index_btn_hover.png
+0 1 0 2896 0 0
+/home/bertin12/Styles/dmxHTML5Slideshow.css
+0 1 0 3944 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/button.png
+0 1 0 160 0 0
+/home/bertin12/dmx/widgets/flowplayer/flowplayer.min.js
+0 1 0 16066 0 0
+/home/bertin12/fonts/FontAwesome.ttf
+0 1 0 23156 0 0
+/home/bertin12/dmx/widgets/Lightbox/package_network.png
+0 1 0 7566 0 0
+/home/bertin12/dmx/widgets/Lightbox/preferences.html
+0 1 0 3608 0 0
+/home/bertin12/respond.min.js
+0 1 0 3215 0 0
+/home/bertin12/dmx/widgets/Lightbox/plugins/url/url.js
+0 1 0 1426 0 0
+/home/bertin12/Images/Logoset/big/big/big/Gaeta.jpg
+0 1 0 27233 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/border-art.js
+0 1 0 793 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/simple.js
+0 1 0 860 0 0
+/home/bertin12/css/responsive.css
+0 1 0 6798 0 0
+/home/bertin12/lyslogo_2.jpg
+0 1 0 617462 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/progress.gif
+0 1 0 1310 0 0
+/home/bertin12/dmx/widgets/Lightbox/lightbox_header_460.jpg
+0 1 0 93208 0 0
+/home/bertin12/Images/Logoset/big/big/SUN.jpg
+0 1 0 25347 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/up-trans.png
+0 1 0 241 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/buttons.png
+0 1 0 75277 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/classic.js
+0 1 0 787 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/about_btn_hover.png
+0 1 0 2912 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/btn_prev.png
+0 1 0 704 0 0
+/home/bertin12/dmx/dmx.core.js
+0 1 0 7364 0 0
+/home/bertin12/Templates/HomePage.dwt.php
+0 1 0 9103 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/blue.js
+0 1 0 803 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/left-trans.png
+0 1 0 232 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/btn_next.png
+0 1 0 701 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/btn_play_hover.png
+0 1 0 3959 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/thin.js
+0 1 0 792 0 0
+/home/bertin12/fonts/font/fontawesome-webfont.eot
+0 1 0 38708 0 0
+/home/bertin12/electrabandpage.php
+0 1 0 5175 0 0
+/home/bertin12/dmx/widgets/Lightbox/prefs.css
+0 1 0 1093 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/minimalistic.js
+0 1 0 784 0 0
+/home/bertin12/ScriptLibrary/dmxGoogleMaps2/extensions/drawing/drawing.js
+0 1 0 1121 0 0
+/home/bertin12/Contact.php
+0 1 0 6702 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/all.js
+0 1 0 5676 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/default.js
+0 1 0 790 0 0
+/home/bertin12/Images/Logoset/big/TBC.jpg
+0 1 0 17633 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/config_btn_hover.png
+0 1 0 3027 0 0
+/home/bertin12/dmx/widgets/Lightbox/plugins/flash/flash.js
+0 1 0 924 0 0
+/home/bertin12/Images/Logoset/big/95North.jpg
+0 1 0 79416 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/index_btn.png
+0 1 0 1341 0 0
+/home/bertin12/dmx/widgets/flowplayer/flowplayer.controls.swf
+0 1 0 37911 0 0
+/home/bertin12/ScriptLibrary/dmxNavigationMenu.js
+0 1 0 14823 0 0
+/home/bertin12/dmx/widgets/Lightbox/about.html
+0 1 0 1726 0 0
+/home/bertin12/portfolio.php
+0 1 0 8970 0 0
+/home/bertin12/dmx/widgets/Lightbox/plugins/flv/flv.js
+0 1 0 2045 0 0
+/home/bertin12/dmx/widgets/Lightbox/presets/paspartu.js
+0 1 0 801 0 0
+/home/bertin12/Images/Logoset/big/big/Gaeta.jpg
+0 1 0 23024 0 0
+/home/bertin12/dmx/widgets/flowplayer/flowplayer.swf
+0 1 0 126418 0 0
+/home/bertin12/fonts/FontAwesome-Vectors.pdf
+0 1 0 767115 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/down-trans.png
+0 1 0 179 0 0
+/home/bertin12/Images/Logoset/big/BlackWinterHill.jpg
+0 1 0 70173 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/dark_black.css
+0 1 0 3651 0 0
+/home/bertin12/Styles/controls.png
+0 1 0 4301 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/btn_prev_hover.png
+0 1 0 4055 0 0
+/home/bertin12/Images/Logoset/big/GOG.jpg
+0 1 0 109007 0 0
+/home/bertin12/ScriptLibrary/dmxGoogleMaps.js
+0 1 0 14327 0 0
+/home/bertin12/dmx/widgets/Lightbox/plugins/form/form.js
+0 1 0 1162 0 0
+/home/bertin12/dmx/lib/excanvas-compressed.js
+0 1 0 11362 0 0
+/home/bertin12/ScriptLibrary/dmxHTML5Slideshow.js
+0 1 0 13069 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/left_sel-trans.png
+0 1 0 284 0 0
+/home/bertin12/Images/Logoset/big/Warrior.jpg
+0 1 0 83348 0 0
+/home/bertin12/InnerFullWidth.html
+0 1 0 7050 0 0
+/home/bertin12/fonts/font/fontawesome-webfont.ttf
+0 1 0 68476 0 0
+/home/bertin12/Images/Logoset/big/Hero.jpg
+0 1 0 69067 0 0
+/home/bertin12/Images/Logoset/big/big/Hero.jpg
+0 1 0 12633 0 0
+/home/bertin12/Styles/down-trans.png
+0 1 0 111 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/up_sel-trans.png
+0 1 0 314 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/right_sel-trans.png
+0 1 0 229 0 0
+/home/bertin12/css/boilerplate.css
+0 1 0 9642 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/style.css
+0 1 0 7335 0 0
+/home/bertin12/Styles/dmxNavigationMenu.css
+0 1 0 4374 0 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/btn_pause_hover.png
+0 1 0 3823 0 0
+/home/bertin12/Styles/IE7.js
+0 1 0 31222 0 0
+/home/bertin12/Images/Logoset/big/.DS_Store
+0 1 0 6148 0 0
+/home/bertin12/fonts/font/fontawesome-webfont.woff
+0 1 0 41752 0 0
+/home/bertin12/Images/Logoset/logoset3.pdf
+0 1 0 582310 0 0
+/home/bertin12/Templates/InnerPageFullWidth.dwt.php
+0 1 0 6954 0 0
+/home/bertin12/dmx/widgets/Lightbox/
+0 1 0 4990 1 0
+/home/bertin12/dmx/widgets/Lightbox/styles/default/btn_pause.png
+0 1 0 496 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/down_sel-trans.png
+0 1 0 241 0 0
+/home/bertin12/Images/Logoset/big/big/TBC.jpg
+0 1 0 20169 0 0
+/home/bertin12/Styles/dmxHTML5Slideshow/minimalistic/controls.png
+0 1 0 1298 0 0
+/home/bertin12/InnerWithSidebar.html
+0 1 0 5713 0 0
+/home/bertin12/Images/Logoset/big/Gaeta.jpg
+0 1 0 42316 0 0
+/home/bertin12/Styles/right-trans.png
+0 1 0 135 0 0
+/home/bertin12/dmx/lib/flashembed.js
+0 1 0 8559 0 0
+/home/bertin12/fonts/css/font-awesome-ie7.css
+0 1 0 23213 0 0
+/home/bertin12/ScriptLibrary/jquery-latest.pack.js
+0 1 0 95785 0 0
+/home/bertin12/Styles/dmxNavigationMenu/dark_black/header.png
+0 1 0 141 0 0
+# End Of Table - urls
+# -sites- (monthly)
+108.207.133.22
+0 123 123 3979387 1 1430551247
+/home/bertin12/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+108.207.133.22
+0 123 123 3979387 1 1430551247
+/home/bertin12/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+bertin12
+0 123 123 3979387 2 1430551247
+# End Of Table - usernames

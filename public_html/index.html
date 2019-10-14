@@ -1,0 +1,229 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Home Page</title>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+<link href="fonts/css/font-awesome.css" rel="stylesheet" type="text/css">
+<link href="css/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if IE]><script type="text/javascript" src="dmx/lib/excanvas-compressed.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="dmx/widgets/Lightbox/styles/default/style.css" />
+<script type="text/javascript" src="ScriptLibrary/jquery-latest.pack.js"></script>
+<script src="respond.min.js"></script>
+<link rel="stylesheet" type="text/css" href="Styles/dmxHTML5Slideshow.css">
+<link rel="stylesheet" type="text/css" href="Styles/dmxHTML5Slideshow/minimalistic/minimalistic.css">
+<link rel="stylesheet" type="text/css" href="Styles/dmxNavigationMenu.css">
+<link rel="stylesheet" type="text/css" href="Styles/dmxNavigationMenu/dark_black/dark_black.css" />
+<script type="text/javascript" src="ScriptLibrary/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="ScriptLibrary/dmxHTML5Slideshow.js"></script>
+<script type="text/javascript" src="ScriptLibrary/dmxNavigationMenu.js"></script>
+<!--[if lt IE 7]><script type="text/javascript" src="Styles/IE7.js"></script><![endif]-->
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 7]><script type="text/javascript" src="../Styles/IE7.js"></script><![endif]-->
+<script type="text/javascript" src="dmx/dmx.core.js"></script>
+<script type="text/javascript" src="dmx/widgets/Lightbox/dmx.lightbox.js"></script>
+</head>
+<body>
+<!-- Header -->
+<div class="header">
+  <div class="gridContainer clearfix" id="header-inner">
+    <div id="logo" ><img src="wld.png" width="70" height="55">
+    <h2>Blys Designs</h2>
+    <br class="clearfix">
+    </div>
+    <div id="navigation">
+      <div id="navmenu1" class="dmxNavigationMenu">
+  <ul class="menu horizontal">
+    <li title="Home"><a href="index.html">Home</a></li>
+    <li title="Portfolio"><a href="portfolio.html" class="expandable">Portfolio<span class="sub_down"></span></a>
+      <ul class="sub">
+        <li title="Sub item 1"><a href="sun.html">Sun</a></li>
+        <li title="Sub item 2"><a href="electrabandpage.html">The Electra Band</a></li>
+        <li title="Sub item 3"><a href="tbc.html">TBC</a></li>
+        <li title="Sub item 4"><a href="95north.html">95North</a></li>
+        <li title="Sub item 5"><a href="eldredwheeler.html">Eldred Wheeler</a></li>
+        <li title="Sub item 6"><a href="docish.html">Doc-Ish</a></li>
+        <li title="Sub item 7"><a href="greenit.html">Green it</a></li>
+        <li title="Sub item 8"><a href="ghirardelli.html">Ghirardelli</a></li>
+        <!--<li title="Sub item 9"><a href="tbc.html">TBC</a></li>-->
+      </ul>
+    </li>
+    <li title="Resume/CV"><a href="resume.html">Resume/CV</a></li>
+    <li title="Contact"><a href="Contact.html">Contact</a></li>
+  </ul>
+  <div style="height:0;font-size:0;clear:both;"></div>
+</div>
+<script type="text/javascript">
+  // <![CDATA[
+ jQuery(document).ready(
+   function()
+     {
+       jQuery("#navmenu1").dmxNavigationMenu(
+         {"mainShowDuration": "normal", "mainShowEasing": "swing", "mainHideDuration": "normal", "mainHideEasing": "swing", "subShowDuration": "normal", "subShowEasing": "swing", "subHideDuration": "normal", "subHideEasing": "swing", "useMenuBarSearch": false, "keyboard": true}
+       );
+     }
+ );
+  // ]]>
+</script>
+    </div>
+  </div>
+</div>
+<!-- End of Header --> 
+
+<!-- Slider -->
+
+
+<div class="gridContainer clearfix" id="slider-wrap">
+  <div class="dmxSlideshow" id="slideshow1" style="width:100%;height:400px">
+  <div class="dmxSlide">
+    <img src="Images/Logoset/big/big/Hero.jpg" border="0" width="400" height="400" alt="Hero" />
+    <div class="dmxDescription">
+      <h4>Hero</h4>
+    </div>
+  </div>
+  <div class="dmxSlide">
+    <img src="Images/Logoset/big/big/Warrior.jpg" border="0" width="400" height="400" alt="Warrior" />
+    <div class="dmxDescription">
+      <h4>Warrior</h4>
+    </div>
+  </div>
+  <div class="dmxSlide">
+    <a href="tbc.html" target="_self">
+      <img src="Images/Logoset/big/big/TBC.jpg" border="0" width="576" height="576" alt="TBC" />
+    </a>
+    <div class="dmxDescription">
+      <h4>TBC</h4>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+  // <![CDATA[
+ jQuery(document).ready(
+   function()
+     {
+       jQuery("#slideshow1").dmxHTML5Slideshow(
+         {"width": "100%", "height": 400, "slide": {"placement": "fit"}, "controls": {"position": "bottom"}, "kenburns": {"enabled": false, "start": {"zoom": "1~1"}, "end": {"zoom": "1~1"}}}
+       );
+     }
+ );
+  // ]]>
+</script>
+<MM:EndLock></MM:EndLock> </div>
+<!-- End of Slider --> 
+<!-- Main Content -->
+<div class="gridContainer clearfix" id="content-wrap">
+<div id="TextBox1" class="textbox">
+    <h2><span class="customcolor">What</span> is Blys</h2>
+    <p>To be truthful Blys is many things. Blys is how I think, Blys is also a project that I have created to correctly represent myself to basically anyone. Blys is not only set in stone nor is it only word of mouth. To call Blys a company would cheapen Blys but, if you can only understand it as a company, I would not hate you for thinking that. Blys is about bringing myself to your level of thinking in an artistic way. Weather that level of thinking is branding, website design, or just a plain old illustration. </p>
+  </div>
+  <div id="TextBox2" class="textbox">
+    <h2><span class="customcolor">My</span> style and what it is</h2>
+    <p>My skills range from a variety of programs, but I am very comfortable with every program in the Adobe Creative Suite. Also
+I am trying to verge the gap between programming and design by teaching myself such languages like Java script, and HTML. I also
+have traditional art skills, drawing and pen and ink illustrations are what I am most comfortable with.</p>
+  </div>
+  <div id="TextBox3" class="textbox">
+    <h2><span class="customcolor">Experience</span> with the field.</h2>
+    <p>At the time I am a freelance graphic designer mostly specializing in logo designs, web-page layouts and stationary. Being a
+freelance graphic designer infused me with a lot of experience about the industry. </p>
+  </div>
+  <div class="clearfix"></div>
+  <hr>
+  <div id="ImageBox1" class="imagebox">
+    <div class="thumbnail"> 
+      <!-- image --> 
+      <a href="tbc.html" title="TBC"> <img src="Images/Logoset/big/thumbs/thumbs/TBC.png" alt="TBC"> </a> 
+      <!-- description -->
+      <div class="thumbnail-description"> 
+        <!-- icon --> 
+        <i class="icon-chevron-right"></i> 
+        <!-- name --><b>TBC</b></div>
+    </div>
+  </div>
+  <div id="ImageBox2" class="imagebox">
+    <div class="thumbnail"> 
+      <!-- image --> 
+      <a href="95north.html" title="95 North"> <img src="Images/Logoset/big/thumbs/thumbs/95North.png" alt="95 North"> </a> 
+      <!-- description -->
+      <div class="thumbnail-description"> 
+        <!-- icon --> 
+        <i class="icon-chevron-right"></i> 
+        <!-- name --><b>95 North</b></div>
+    </div>
+  </div>
+  <div id="ImageBox3" class="imagebox">
+    <div class="thumbnail"> 
+      <!-- image --> 
+      <a href="#" title="Warrior"> <img src="Images/Logoset/big/thumbs/thumbs/Warrior.png" alt="Warrior"> </a> 
+      <!-- description -->
+      <div class="thumbnail-description"> 
+        <!-- icon --> 
+        <i class="icon-chevron-right"></i> 
+        <!-- name --><b>Warrior</b></div>
+    </div>
+  </div>
+  <div id="ImageBox4" class="imagebox">
+    <div class="thumbnail"> 
+      <!-- image --> 
+      <a href="sun.html" title="Straightup Nature"> <img src="Images/Logoset/big/thumbs/thumbs/SUN.jpg" alt="Sun"> </a> 
+      <!-- description -->
+      <div class="thumbnail-description"> 
+        <!-- icon --> 
+        <i class="icon-chevron-right"></i> 
+        <!-- name --><b>Sun</b></div>
+    </div>
+  </div>
+  <div id="ImageBox5" class="imagebox">
+    <div class="thumbnail"> 
+      <!-- image --> 
+      <a href="#" title="Hero"> <img src="Images/Logoset/big/thumbs/thumbs/Hero.png" alt="Hero"> </a> 
+      <!-- description -->
+      <div class="thumbnail-description"> 
+        <!-- icon --> 
+        <i class="icon-chevron-right"></i> 
+        <!-- name --><b>Hero</b></div>
+    </div>
+  </div>
+</div>
+<!-- End of Main Content --> 
+
+<!-- Footer -->
+<div id="footer">
+  <div class="gridContainer clearfix" id="footer-inner">
+    <div id="footer-left">
+    <i style="margin-left:0;" class="icon-home"></i> 8506 Angelina Parke San Antonio Texas 78254
+     <i class="icon-phone"></i> (774)-240-7949
+     <a href="mailto:bertinlys@gmail.com"><i class="icon-envelope"></i> bertinlys@gmail.com</a>
+    </div>
+    <div style="font-size:24px;" id="footer-right"><i class="icon-facebook-sign"></i> <i class="icon-twitter"></i> <i class="icon-google-plus"></i> <i class="icon-linkedin"></i></div>
+  </div>
+</div>
+<div id="footer-bottom">
+  <div class="gridContainer clearfix">
+  Copyright Information � 2017
+  </div>
+  </div>
+<!-- End of footer -->
+
+</body>
+</html>

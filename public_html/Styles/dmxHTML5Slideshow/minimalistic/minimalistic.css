@@ -1,0 +1,92 @@
+/*
+HTML5 Slideshow Minimalistic CSS
+(c) 2010 DMXzone
+*/
+
+.dmxSlideshow.minimalistic .dmxDescription {
+    background-color: transparent;
+    background: rgba(255, 255, 255, 0.8);
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF,endColorstr=#CCFFFFFF);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF,endColorstr=#CCFFFFFF);
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+}
+
+.dmxSlideshow.minimalistic .dmxDescription.top {
+    border-bottom: 1px solid #666;
+}
+
+.dmxSlideshow.minimalistic .dmxDescription.bottom {
+    border-top: 1px solid #666;
+}
+
+.dmxSlideshow.minimalistic .dmxDescription h4 {
+    font-size: 120%;
+    color: #000;
+}
+
+.dmxSlideshow.minimalistic .dmxDescription p {
+    color: #666;
+}
+
+.dmxSlideshow.minimalistic .dmxControlbar {
+    padding: 0 2px;
+    background-color: transparent;
+    background: rgba(255, 255, 255, 0.8);
+    -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF,endColorstr=#CCFFFFFF);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF,endColorstr=#CCFFFFFF);
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+    line-height: 0;
+}
+
+.dmxSlideshow.minimalistic .dmxControlbar.top {
+    border-bottom: 1px solid #666;
+}
+
+.dmxSlideshow.minimalistic .dmxControlbar.bottom {
+    border-top: 1px solid #666;
+}
+
+.dmxSlideshow.minimalistic .dmxControlbar.center {
+    border: 1px solid #666;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+.dmxSlideshow.minimalistic .dmxControl {
+    margin: 0;
+    width: 16px; height: 16px;
+    background-image: url('controls.png');
+	display: inline-block;
+    *display: inline;
+    *vertical-align: middle;
+    zoom: 1;
+}
+
+.dmxSlideshow.minimalistic .dmxControl.first {
+    background-position: 0px;
+}
+
+.dmxSlideshow.minimalistic .dmxControl.prev {
+    background-position: -16px;
+}
+
+.dmxSlideshow.minimalistic .dmxControl.pause {
+    background-position: -32px;
+}
+
+.dmxSlideshow.minimalistic .dmxControl.play {
+    background-position: -48px;
+}
+
+.dmxSlideshow.minimalistic .dmxControl.next {
+    background-position: -64px;
+}
+
+.dmxSlideshow.minimalistic .dmxControl.last {
+    background-position: -80px;
+}
