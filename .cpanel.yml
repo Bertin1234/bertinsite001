@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bertin12/public_html
+    - export DEPLOYPATH=/home/bertin12/
     - /bin/cp -R * $DEPLOYPATH
 ---
