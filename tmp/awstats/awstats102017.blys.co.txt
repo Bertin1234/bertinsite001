@@ -237,7 +237,7 @@ END_SCREENSIZE
 # Unknown referer OS - Last visit date
 BEGIN_UNKNOWNREFERER 4
 redback/v0-570-g26f8c96 20171004174931
-Mozilla 20171003062023
+Mozilla 20171003062024
 Python/3.6_aiohttp/2.2.5 20171003054102
 Mozilla/5.0_(compatible;_Dataprovider.com;) 20171007022724
 END_UNKNOWNREFERER
@@ -324,7 +324,7 @@ END_SIDER_404
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 25 first Hits must be first (order not required for others)
 BEGIN_VISITOR 46
-104.192.74.20 26 26 66124 20171003062023
+104.192.74.20 26 26 66124 20171003062024
 118.140.38.6 13 13 33062 20171009023426
 52.30.100.41 13 13 106611 20171010085819
 158.69.225.36 12 12 97746 20171007022725
