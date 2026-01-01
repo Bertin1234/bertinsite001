@@ -206,7 +206,7 @@ Do the following if you're using your customized build of modernizr (http://www.
 </div>
 <div id="footer-bottom">
   <div class="gridContainer clearfix">
-  Copyright Information � 2012
+  Copyright Information � 2026
   </div>
   </div>
 <!-- End of footer -->
