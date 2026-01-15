@@ -100,7 +100,7 @@
 	zoom: 1;
 	*display: inline;
 	vertical-align: bottom;
-	float:left;
+	float: right;
 	width:25%; /*Change this depending on how many menu items do you have. Width% = 100/(menu items number). For example 4 menu items -> 100/4 = 25%; 6 menu items -> 100/6 = 16.6% */
 }
 
